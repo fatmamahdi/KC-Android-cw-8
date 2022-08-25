@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    int haight=164;
+	    
+	    if ( haight > 160) {
+	        System.out.println("you can inter ");
+	    }else if(haight < 160) {
+	        System.out.println("you cant inter ");
+	    }
+
+	}
+}
